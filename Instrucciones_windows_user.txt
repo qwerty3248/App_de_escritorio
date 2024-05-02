@@ -1,0 +1,7 @@
+1. Instalar: pip install pyinstaller (En la powershell)
+2. pyinstaller --onefile --icon=lista.ico to_do_list2.py (En la carpeta donde tengas los archivos)
+3. En la carpeta dist que te ha creado mueve la carpeta Py_escritorio donde tengas 
+el ejecutable.
+4. Para más comodidad crea un acceso directo y ponlo en el escritorio
+5. Mueve la carpeta del programa donde quieras
+6. En algunas ocasiones se abrira la terminal, no suele hacerlo 
